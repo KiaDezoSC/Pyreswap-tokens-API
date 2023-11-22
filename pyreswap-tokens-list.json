@@ -43,6 +43,14 @@
             "symbol": "2SHARE"
         },
         {
+            "address": "0xEB32Ac9c850d059E24C40a42DBc124216149172d",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/2BOND.png",
+            "name": "2omb Bond",
+            "symbol": "2BOND"
+        },
+        {
             "address": "0x14DEf7584A6c52f470Ca4F4b9671056b22f4FfDE",
             "chainId": 250,
             "decimals": 18,
@@ -59,6 +67,14 @@
             "symbol": "3SHARE"
         },
         {
+            "address": "0x981ee8AD300A219A5a569eA058C2A98bb8ab00e6",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/3BOND.png",
+            "name": "3omb Bond",
+            "symbol": "3BOND"
+        },
+        {
             "address": "0x1e6B8866Ff62De4894C92eF454799d299Abd1F2D",
             "chainId": 250,
             "decimals": 18,
@@ -73,6 +89,94 @@
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/ZSHARE.png",
             "name": "SC Zshare",
             "symbol": "ZSHARE"
+        },
+        {
+            "address": "0x49429929f867522e0f80A6D17664C657A89876F7",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/ZBOND.png",
+            "name": "Zomb Bond",
+            "symbol": "zBOND"
+        },
+        {
+            "address": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
+            "chainId": 250,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDC.png",
+            "name": "LayerZero USD Coin",
+            "symbol": "lzUSDC"
+        },
+        {
+            "address": "0xd226392c23fb3476274ed6759d4a478db3197d82",
+            "chainId": 250,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDT.jpg",
+            "name": "Axelar Tether USDt",
+            "symbol": "axlUSDT"
+        },
+        {
+            "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/frax.jpg",
+            "name": "FRAX",
+            "symbol": "FRAX"
+        },
+        {
+            "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/mim.jpg",
+            "name": "Magic Internet Money",
+            "symbol": "MIM"
+        },
+        {
+            "address": "0x695921034f0387eac4e11620ee91b1b15a6a09fe",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/ETH.jpg",
+            "name": "Wrapped Ether",
+            "symbol": "wETH"
+        },
+        {
+            "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/Axelar.png",
+            "name": "Wrapped Axelar",
+            "symbol": "wAXL"
+        },
+        {
+            "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/STG.jpg",
+            "name": "Stargate Finance",
+            "symbol": "STG"
+        },
+        {
+            "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/wbtc.jpg",
+            "name": "Axelar Wrapped Bitcoin",
+            "symbol": "axlWBTC"
+        },
+        {
+            "address": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/DAI.png",
+            "name": "Axelar Dai",
+            "symbol": "axlDAI"
+        },
+        {
+            "address": "0x3bB68cb55Fc9C22511467c18E42D14E8c959c4dA",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/Cosmos.png",
+            "name": "Axelar Cosmos",
+            "symbol": "axlATOM"
         }
     ]
 }
