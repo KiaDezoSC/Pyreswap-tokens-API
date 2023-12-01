@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
     },
@@ -141,7 +141,7 @@
         {
             "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
             "chainId": 250,
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/Axelar.png",
             "name": "Wrapped Axelar",
             "symbol": "wAXL"
@@ -157,7 +157,7 @@
         {
             "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
             "chainId": 250,
-            "decimals": 18,
+            "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/wbtc.jpg",
             "name": "Axelar Wrapped Bitcoin",
             "symbol": "axlWBTC"
@@ -173,7 +173,7 @@
         {
             "address": "0x3bB68cb55Fc9C22511467c18E42D14E8c959c4dA",
             "chainId": 250,
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/Cosmos.png",
             "name": "Axelar Cosmos",
             "symbol": "axlATOM"
