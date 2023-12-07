@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -14,7 +14,7 @@
             "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
             "chainId": 250,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDC.png",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlUSDC.png",
             "name": "Axelar Wrapped USDC",
             "symbol": "axlUSDC"
         },
@@ -22,7 +22,7 @@
             "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/FTM.jpg",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/WFTM.jpg",
             "name": "Wrapped Fantom",
             "symbol": "WFTM"
         },
@@ -94,7 +94,7 @@
             "address": "0x49429929f867522e0f80A6D17664C657A89876F7",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/ZBOND.png",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/zBOND.png",
             "name": "Zomb Bond",
             "symbol": "zBOND"
         },
@@ -102,7 +102,7 @@
             "address": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
             "chainId": 250,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDC.png",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/lzUSDC.png",
             "name": "LayerZero USD Coin",
             "symbol": "lzUSDC"
         },
@@ -110,7 +110,7 @@
             "address": "0xd226392c23fb3476274ed6759d4a478db3197d82",
             "chainId": 250,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDT.jpg",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlUSDT.jpg",
             "name": "Axelar Tether USDt",
             "symbol": "axlUSDT"
         },
@@ -118,7 +118,7 @@
             "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/frax.jpg",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/FRAX.jpg",
             "name": "FRAX",
             "symbol": "FRAX"
         },
@@ -126,7 +126,7 @@
             "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/mim.jpg",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/MIM.jpg",
             "name": "Magic Internet Money",
             "symbol": "MIM"
         },
@@ -134,7 +134,7 @@
             "address": "0x695921034f0387eac4e11620ee91b1b15a6a09fe",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/ETH.jpg",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/wETH.jpg",
             "name": "Wrapped Ether",
             "symbol": "wETH"
         },
@@ -142,7 +142,7 @@
             "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
             "chainId": 250,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/Axelar.png",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/wAXL.png",
             "name": "Wrapped Axelar",
             "symbol": "wAXL"
         },
@@ -158,7 +158,7 @@
             "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
             "chainId": 250,
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/wbtc.jpg",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlWBTC.jpg",
             "name": "Axelar Wrapped Bitcoin",
             "symbol": "axlWBTC"
         },
@@ -166,7 +166,7 @@
             "address": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/DAI.png",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlDAI.png",
             "name": "Axelar Dai",
             "symbol": "axlDAI"
         },
@@ -174,7 +174,7 @@
             "address": "0x3bB68cb55Fc9C22511467c18E42D14E8c959c4dA",
             "chainId": 250,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/Cosmos.png",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlATOM.png",
             "name": "Axelar Cosmos",
             "symbol": "axlATOM"
         }
