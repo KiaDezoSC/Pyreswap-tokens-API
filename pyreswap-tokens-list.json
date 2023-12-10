@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 5,
+        "major": 6,
         "minor": 0,
         "patch": 0
     },
@@ -273,14 +273,6 @@
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlDAI.png",
             "name": "Axelar Dai",
             "symbol": "axlDAI"
-        },
-        {
-            "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-            "chainId": 43114,
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/lzLUSD.png",
-            "name": "LayerZero Liquidity USD",
-            "symbol": "lzLUSD"
         },
         {
             "address": "0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12",
