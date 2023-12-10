@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 6,
+        "major": 7,
         "minor": 0,
         "patch": 0
     },
@@ -10,6 +10,14 @@
     "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/PyreSwapLogo.png",
     "keywords": ["pyreswap", "default"],
     "tokens": [
+        {
+            "address": "0x9C415370CDf88255b04Cb4a42e782B2Bc493ED3A",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/pyreFTM.png",
+            "name": "PyreSwap Vibratile Fantom",
+            "symbol": "pyreFTM"
+        },
         {
             "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
             "chainId": 250,
