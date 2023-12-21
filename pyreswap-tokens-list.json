@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 7,
+        "major": 8,
         "minor": 0,
         "patch": 0
     },
@@ -347,6 +347,14 @@
             "symbol": "wBNB"
         },
         {
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "chainId": 56,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDC.png",
+            "name": "Binance-Peg USD Coin",
+            "symbol": "USDC"
+        },
+        {
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "chainId": 56,
             "decimals": 6,
@@ -361,6 +369,14 @@
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlUSDC.png",
             "name": "Axelar USD Coin",
             "symbol": "axlUSDC"
+        },
+        {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "chainId": 56,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDT.jpg",
+            "name": "Tether USDt",
+            "symbol": "USDT"
         },
         {
             "address": "0x4818B684a810fC023C32bB6292da8D508Bd906EF",
@@ -395,6 +411,14 @@
             "symbol": "ETH"
         },
         {
+            "address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/wETH.jpg",
+            "name": "Wrapped Ether (Wormhole)",
+            "symbol": "wETH"
+        },
+        {
             "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
             "chainId": 56,
             "decimals": 6,
@@ -409,6 +433,14 @@
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/STG.jpg",
             "name": "Stargate Finance",
             "symbol": "STG"
+        },
+        {
+            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+            "chainId": 56,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/BTCB.jpeg",
+            "name": "Bitcoin BEP2",
+            "symbol": "BTCB"
         },
         {
             "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
@@ -473,6 +505,14 @@
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDBOND.png",
             "name": "Dibs USD Bond",
             "symbol": "USDBOND"
+        },
+        {
+            "address": "0x955ED211537d9Fd31bDC9A428461e59a4867efDe",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/pyreBNB.png",
+            "name": "PyreSwap Vibratile BNB",
+            "symbol": "pyreBNB"
         }
     ]
 }
