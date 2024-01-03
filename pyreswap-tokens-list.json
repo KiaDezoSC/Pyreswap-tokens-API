@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 8,
+        "major": 9,
         "minor": 0,
         "patch": 0
     },
@@ -337,6 +337,14 @@
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/FBOND.png",
             "name": "Frozentomb Bond",
             "symbol": "FBOND"
+        },
+        {
+            "address": "0x2121D5D36AC3E814B2BB15bb3fB57F94190fDe75",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/pyreAVAX.png",
+            "name": "PyreSwap Vibratile Avalanche",
+            "symbol": "pyreAVAX"
         },
         {
             "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
