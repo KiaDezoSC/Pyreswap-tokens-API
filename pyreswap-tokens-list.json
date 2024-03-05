@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 9,
+        "major": 10,
         "minor": 0,
         "patch": 0
     },
@@ -350,7 +350,7 @@
             "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
             "chainId": 56,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/wAVAX.png",
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/wBNB.png",
             "name": "Wrapped BNB",
             "symbol": "wBNB"
         },
