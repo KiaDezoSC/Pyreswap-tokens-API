@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 10,
+        "major": 11,
         "minor": 0,
         "patch": 0
     },
@@ -445,7 +445,7 @@
         {
             "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
             "chainId": 56,
-            "decimals": 8,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/BTCB.jpeg",
             "name": "Bitcoin BEP2",
             "symbol": "BTCB"
