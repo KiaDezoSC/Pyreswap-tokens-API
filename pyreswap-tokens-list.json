@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 13,
+        "major": 14,
         "minor": 0,
         "patch": 0
     },
@@ -357,7 +357,7 @@
         {
             "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
             "chainId": 56,
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDC.png",
             "name": "Binance-Peg USD Coin",
             "symbol": "USDC"
@@ -373,7 +373,7 @@
         {
             "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
             "chainId": 56,
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlUSDC.png",
             "name": "Axelar USD Coin",
             "symbol": "axlUSDC"
