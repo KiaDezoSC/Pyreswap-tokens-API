@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 12,
+        "major": 13,
         "minor": 0,
         "patch": 0
     },
@@ -381,7 +381,7 @@
         {
             "address": "0x55d398326f99059fF775485246999027B3197955",
             "chainId": 56,
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/USDT.jpg",
             "name": "Tether USDt",
             "symbol": "USDT"
