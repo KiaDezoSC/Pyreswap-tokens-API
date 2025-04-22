@@ -2,7 +2,7 @@
     "name": "PyreSwap token list",
     "timestamp": "2023-11-19T01:00:00.000Z",
     "version": {
-        "major": 14,
+        "major": 15,
         "minor": 0,
         "patch": 0
     },
@@ -185,6 +185,14 @@
             "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlATOM.png",
             "name": "Axelar Cosmos",
             "symbol": "axlATOM"
+        },
+        {
+            "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+            "chainId": 250,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/KiaDezoSC/token-images-SC/main/axlUSDC.png",
+            "name": "Multichain USDC",
+            "symbol": "mcUSDC"
         },
         {
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
